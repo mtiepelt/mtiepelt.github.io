@@ -4,42 +4,68 @@ layout: default
 
 # Publications 
 
-## Cryptanalysis
+
+### 2024
 
 * Quantum Lattice Enumeration in Limited Depth
 	* with Nina Bindel, Xavier Bonnetain, Fernando Virdia
 	* [eprint](https://eprint.iacr.org/2023/1423)
+	* To be published at Crypto 2024 
 
-* Quantum LLL with an application to mersenne number cryptosystems
-	* with Alan Szepieniec 
-	* [eprint](https://eprint.iacr.org/2019/1027)
 
+* Post-Quantum Ready Key Agreement for Aviation
+	* with Christian Martin, Nils Mäurer
+	* [Communications in Cryptology](https://cic.iacr.org/p/1/1/17)
+	* Soon to be published on eprint 
+
+### 2023
+
+* Making an Asymmetric PAKE Quantum-Annoying by Hiding Group Elements
+	* with Edward Eaton and Douglas Stebila 
+	* [eprint](https://eprint.iacr.org/2023/1513)
+	* [ESORICS 2023](https://link.springer.com/chapter/10.1007/978-3-031-50594-2_9)
+
+
+### 2021 
 * On Forging SPHINCS+-Haraka Signatures on a Fault-Tolerant Quantum Computer
 	* with Robin Berger 
 	* [eprint](https://eprint.iacr.org/2021/1484)
+	* [Latin Crypt 2021](https://link.springer.com/chapter/10.1007/978-3-030-88238-9_3)
+
+* A secure cell-attachment procedure of LDACS
+	* with Nils Mäurer, Thomas Gräupl, Christoph Gentsch, Tobias Guggemos, Corinna Schmitt, Gabi Dreo Rodosek
+	* [IEEE S&PW 2021](https://ieeexplore.ieee.org/abstract/document/9583714/)
+
+### 2020
+* Side-Channel Attacks on Query-Based Data Anonymization
+	* with Franziska Boenisch, Reinhard Munz, Simon Hanisch, Christiane Kuhn, Paul  Francis
+	* [kitbib](https://publikationen.bibliothek.kit.edu/1000140317)
+	* [CCS 2020](https://dl.acm.org/doi/abs/10.1145/3460120.3484751)
 
 * Exploiting Decryption Failures in Mersenne Number Cryptosystems
 	* with Jan-Pieter D'Anvers 
 	* [eprint](https://eprint.iacr.org/2020/367)
+	* [ACM Workshop Asia CCS 2020](https://dl.acm.org/doi/10.1145/3384940.3388957)
+
+
+### 2019
 
 * Timing Attacks on Error Correcting Codes in Post-Quantum Schemes
 	* with Jan-Pieter D’Anvers, Frederik Vercauteren, and
 Ingrid Verbauwhede
 	* [eprint](https://eprint.iacr.org/2019/292.pdf)
+	* [Latin Crypt 2019] (https://dl.acm.org/doi/10.1145/3338467.3358948)
 
-* Side-Channel Attacks on Query-Based Data Anonymization
-	* with Franziska Boenisch, Reinhard Munz, Simon Hanisch, Christiane Kuhn, Paul  Francis
-	* [kitbib](https://publikationen.bibliothek.kit.edu/1000140317)
+* Quantum LLL with an application to mersenne number cryptosystems
+	* with Alan Szepieniec 
+	* [eprint](https://eprint.iacr.org/2019/1027)
+	* [doi](https://link.springer.com/chapter/10.1007/978-3-030-30530-7_1)
 
 
+### 2016 
+
+* asdasa 
+	* with Tilak Raj Singh
+	* [ICW 2016](https://imt-mines-albi.hal.science/hal-01714520/document#page=118)
 
 
-## Protocol Design 
-
-* A Secure Cell-Attachment Procedure of LDACS
-	* with Nils Mäurer, Thomas Gräupl, Christoph Gentsch, Tobias Guggemos, Corinna Schmitt, Gabi Rodosek
-	* [iee](https://ieeexplore.ieee.org/document/9583714/authors#authors)
-
-* Making an Asymmetric PAKE Quantum-Annoying by Hiding Group Elements
-	* with Edward Eaton and Douglas Stebila 
-	* [eprint](https://eprint.iacr.org/2023/1513)
