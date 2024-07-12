@@ -4,6 +4,13 @@ layout: default
 
 # Cryptographic Community
 
+
+## KASTEL
+
+* [KASTEL Science Slam](https://cii.aifb.kit.edu/2102.php)
+	* 1st Place for my talk on "How to do a cost analysis?" on the security notion of "Indistinguishability under a Chosen Pigeon Attack" (IND-CPA)
+	* [Slides](Slides/KASTELScienceSlam24.pdf)
+
 ## [FG Krypto at GI](https://fg-krypto.gi.de/)
 
 * Upcoming: [Crypt@b-it Summer School 2024 @ CASA, Bochum University](https://cryptabit.bit.uni-bonn.de/2024)
