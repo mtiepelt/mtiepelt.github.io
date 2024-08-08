@@ -12,7 +12,7 @@ layout: default
 	* [eprint](https://eprint.iacr.org/2023/1423)
 	* [CRYPTO 2024] To be published at Crypto 2024. 
 	* [code](https://github.com/mtiepelt/QuantumLatticeEnumeration)
-	* [Slides](Slides/Crypto24_QEnum)
+	* [Slides](Slides/Crypto24_QEnum.pdf)
 
 
 * Post-Quantum Ready Key Agreement for Aviation
