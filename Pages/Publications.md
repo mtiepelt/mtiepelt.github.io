@@ -10,8 +10,9 @@ layout: default
 * Quantum Lattice Enumeration in Limited Depth
 	* with Nina Bindel, Xavier Bonnetain, Fernando Virdia
 	* [eprint](https://eprint.iacr.org/2023/1423)
-	* To be published at Crypto 2024 
+	* [CRYPTO 2024] To be published at Crypto 2024. 
 	* [code](https://github.com/mtiepelt/QuantumLatticeEnumeration)
+	* [Slides](Slides/Crypto24_QEnum)
 
 
 * Post-Quantum Ready Key Agreement for Aviation
