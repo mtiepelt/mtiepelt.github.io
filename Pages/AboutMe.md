@@ -20,7 +20,7 @@ marcel.tiepelt@kit.edu
 
 
 ## SMIME 
-You can find a SMIME certificate at [KIT CA](https://search.ca.kit.edu) with the SHA-256 Fingerprint 
+You can find a SMIME certificate at [KIT CA](https://search.ca.kit.edu) when searching for `Marcel Tiepelt` with the SHA-256 Fingerprint 
 
 > 01:B9:F3:D0:8E:31:A9:E8:E1:60:0D:11:8C:2A:BF:D8:56:87:5E:A6:08:27:02:04:69:86:5B:A2:42:EE:BE:1C
 
@@ -30,7 +30,7 @@ Otherwise, please find my PGP public key with the Fingerprint below
 
 > 6F7FF1DF5417BC27E4AB113FB3C7FB5784F7DA27
 
-<code>
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 xjMEX6Qm4xYJKwYBBAHaRw8BAQdAs51blUJPd20rl4iPjJ337WPOB5Fw7+ACSEH8
@@ -45,5 +45,5 @@ KaynvaXIUwBwXhPHZ64A/0uXhZNbnKC1Xn4Ghg9txNIkUQTsnOSnkaM2Lw6zasIG
 =G8Ib
 
 -----END PGP PUBLIC KEY BLOCK-----
-</code>
+```
 
