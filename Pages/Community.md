@@ -18,6 +18,10 @@ layout: default
 	* Invited speaker for "The Imitation Game"
 
 
+* CRYPTO 2024 Rump Session, showing a short variant of the KASTEL Science Slam 2024
+	* [Slides](Slides/Crypto24Rump.pdf)
+
+
 * [KASTEL Science Slam 2024](https://cii.aifb.kit.edu/2102.php)
 	* 1st Place for my talk on "How to do a cost analysis?" on the security notion of "Indistinguishability under a Chosen Pigeon Attack" (IND-CPA)
 	* [Slides](Slides/KASTELScienceSlam24.pdf)
