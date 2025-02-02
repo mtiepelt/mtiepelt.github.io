@@ -2,18 +2,29 @@
 layout: default
 ---
 
-# Cryptographic Community
+# Cryptographic Community {#community}
 
+## Templates
+
+* [Dissertation template](https://github.com/mtiepelt/dissertation)
 
 ## KASTEL
 
-* [KASTEL Science Slam](https://cii.aifb.kit.edu/2102.php)
+* [KASTEL Colloquium 2025](https://cii.aifb.kit.edu/2102.php)
+	* Invited speaker, with the task to present an entertaining but educational talk (with a twist) ;) 
+	* [Slides](Slides/KastelKolloq25.pdf)
+
+* [Heidelberg Laureate Forum Film Festival](https://www.heidelberg-mains.org/veranstaltungen/filmfestival/)
+	* Invited speaker for "The Imitation Game"
+
+
+* [KASTEL Science Slam 2024](https://cii.aifb.kit.edu/2102.php)
 	* 1st Place for my talk on "How to do a cost analysis?" on the security notion of "Indistinguishability under a Chosen Pigeon Attack" (IND-CPA)
 	* [Slides](Slides/KASTELScienceSlam24.pdf)
 
 ## [FG Krypto at GI](https://fg-krypto.gi.de/)
 
-* Upcoming: [Crypt@b-it Summer School 2024 @ CASA, Bochum University](https://cryptabit.bit.uni-bonn.de/2024)
+* [Crypt@b-it Summer School 2024 @ CASA, Bochum University](https://cryptabit.bit.uni-bonn.de/2024)
 	* Organization of Lectures and Networking
 	* Lattice Algorithms for Cryptography by Léo Ducas
 	* Proving computation and storage: SNARKs and more by Anca Nitulescu

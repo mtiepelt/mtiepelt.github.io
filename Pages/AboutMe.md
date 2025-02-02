@@ -8,16 +8,22 @@ Currently I am a [researcher](https://crypto.iti.kit.edu/english/staff_marcel_ti
 
 My research interest are crypt-analysis, post-quantum cryptography and quantum-annoying PAKEs. 
 
-I love to travel and explore new cultures, and I use to have [travel blog](https://itfortheworld.wordpress.com/) which I will continue here soon.
+I love to travel and explore new cultures, and I used to have [travel blog](https://itfortheworld.wordpress.com/) which I will continue here soon. 
+I also love cooking. 
+
+{: .box-container}
+[Travel]({% link Pages/Travel.md%}#travel){: .box}
+[Cooking]({% link Pages/Cooking.md%}#cooking){: .box}
 
 
 
+# Contact {#contact}
 
+- marcel (dot) tiepelt (at) mailbox (dot) org
 
-# Contact 
+- marcel (dot) tiepelt (at) kit (dot) edu
 
-marcel.tiepelt@kit.edu
-
+For my latter you can use either SMIME or PGP.
 
 ## SMIME 
 You can find a SMIME certificate at [KIT CA](https://search.ca.kit.edu) when searching for `Marcel Tiepelt` with the SHA-256 Fingerprint 
