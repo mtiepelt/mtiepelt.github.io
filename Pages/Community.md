@@ -4,11 +4,11 @@ layout: default
 
 # Cryptographic Community {#community}
 
-## Templates
+## Templates {#template}
 
 * [Dissertation template](https://github.com/mtiepelt/dissertation)
 
-## KASTEL
+## Talks 
 
 * [KASTEL Colloquium 2025](https://cii.aifb.kit.edu/2102.php)
 	* Invited speaker, with the task to present an entertaining but educational talk (with a twist) ;) 
@@ -16,7 +16,6 @@ layout: default
 
 * [Heidelberg Laureate Forum Film Festival](https://www.heidelberg-mains.org/veranstaltungen/filmfestival/)
 	* Invited speaker for "The Imitation Game"
-
 
 * CRYPTO 2024 Rump Session, showing a short variant of the KASTEL Science Slam 2024
 	* [Slides](Slides/Crypto24Rump.pdf)

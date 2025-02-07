@@ -2,10 +2,13 @@
 layout: default
 ---
 
-# Research [ORCID](https://orcid.org/0000-0002-3389-208X) {#publications}
+# Research ([ORCID](https://orcid.org/0000-0002-3389-208X)) {#publications}
 
-* Dissertation
-	* to be added soon 
+My dissertation, which uses my [template]({% link Pages/Community.md%}#template)
+
+* [Two-sided](Dissertation/FINAL_Tiepelt_twosided.pdf), the "[official](https://publikationen.bibliothek.kit.edu/1000178687)" version.
+* [One-sided](Dissertation/FINAL_Tiepelt_onesided.pdf), a one-sided version optimized for digital reading.
+* Defense: Unfortunately, the Department of Informatics at the KIT does not allow to stream or record the actual defense. However, you can find my [slides](Dissertation/Defense.pdf) here, and feel free to reach out for any questions. 
 
 
 {: .box-container}
