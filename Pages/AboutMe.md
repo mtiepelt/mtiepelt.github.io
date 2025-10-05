@@ -9,7 +9,7 @@ Currently I am a [researcher](https://crypto.iti.kit.edu/english/staff_marcel_ti
 My research interest are crypt-analysis, post-quantum cryptography and quantum-annoying PAKEs. 
 
 I love to travel and explore new cultures, and I used to have [travel blog](https://itfortheworld.wordpress.com/) which I will continue here soon. 
-I also love cooking. 
+I also love cooking --- but I am a bit lazy when it comes to writing content on this website ;)
 
 {: .box-container}
 [Travel]({% link Pages/Travel.md%}#travel){: .box}
@@ -34,6 +34,8 @@ You can find a SMIME certificate at [KIT CA](https://search.ca.kit.edu) when sea
 ## PGP 
 Otherwise, please find my PGP public key with the Fingerprint below 
 
+### marcel (dot) tiepelt (at) kit (dot) edu
+
 > 6F7FF1DF5417BC27E4AB113FB3C7FB5784F7DA27
 
 ```
@@ -51,5 +53,29 @@ KaynvaXIUwBwXhPHZ64A/0uXhZNbnKC1Xn4Ghg9txNIkUQTsnOSnkaM2Lw6zasIG
 =G8Ib
 
 -----END PGP PUBLIC KEY BLOCK-----
+```
+
+
+### marcel (dot) tiepelt (at) mailbox (dot) org
+
+> Key ID: 0xEA023442924BE17B
+
+> Fingerprint: 70C5A97243ACD8827E7C8966EA023442924BE17B
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEaOHuExYJKwYBBAHaRw8BAQdA9xVMcWNdQ21ZGBFZqNPcjQv/PpL2ZjGfv2oJ
+w+IOBwnNK01hcmNlbCBUaWVwZWx0IDxtYXJjZWwudGllcGVsdEBtYWlsYm94Lm9y
+Zz7CjwQTFggANxYhBHDFqXJDrNiCfnyJZuoCNEKSS+F7BQJo4e4TBQkHhM4AAhsD
+BAsJCAcFFQgJCgsFFgIDAQAACgkQ6gI0QpJL4Xvx5gEA3orWWQRhdWyLqhA42s8t
+wz7bbDrV0DBlP7ZJ86mbWscBAJF4Y4cO9aYay1R8xqs+I2bBctlKfFCKBJtB8doW
+ygAPzjgEaOHuFBIKKwYBBAGXVQEFAQEHQDuuAjM/jz/PGfKdZjB2WIDbB8hQ4SzZ
+vOHtPYerc7RzAwEIB8J+BBgWCAAmFiEEcMWpckOs2IJ+fIlm6gI0QpJL4XsFAmjh
+7hQFCQeEzgACGwwACgkQ6gI0QpJL4XvkfgD/fL8YDECzlXQpOBagZmE9aDtPcZcq
+Q9iOAK7Y6M8Zz9wBAMkMOiK68SXhITRnMgiy7FD6D/bVy8kYUuWzbOLjLCII
+=Zpqg
+-----END PGP PUBLIC KEY BLOCK-----
+
 ```
 
