@@ -8,4 +8,5 @@ bundler3.3 config path ~/.config/bundler3.3
 
 * Run
 
-bundle exec jekyll serve
+bundle3.3 install
+bundle3.3 exec jekyll serve
