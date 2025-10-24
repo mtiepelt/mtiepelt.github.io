@@ -19,11 +19,12 @@ I also love cooking --- but I am a bit lazy when it comes to writing content on 
 
 # Contact {#contact}
 
-- marcel (dot) tiepelt (at) mailbox (dot) org
+- rsrch (dot) mtiepelt (at) mailbox (dot) org
 
 - marcel (dot) tiepelt (at) kit (dot) edu
 
-For my latter you can use either SMIME or PGP.
+For the first you can use PGP, for the latter either SMIME or PGP. They PGP keys should be available on [keys.openpgp.org](https://keys.openpgp.org/) (use the Key ID).
+
 
 ## SMIME 
 You can find a SMIME certificate at [KIT CA](https://search.ca.kit.edu) when searching for `Marcel Tiepelt` with the SHA-256 Fingerprint 
