@@ -16,8 +16,8 @@ My dissertation, which uses my [template]({% link Pages/Community.md%}#template)
 [Talks]({% link Pages/Community.md%}#talks){: .box}
 
 
-# Publications {#publications}
-
+# Publications  {#publications} 
+[ORCID 0000-0002-3389-208X](https://orcid.org/0000-0002-3389-208X)
 
 ### 2024
 

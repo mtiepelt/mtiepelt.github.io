@@ -4,7 +4,9 @@ layout: default
 
 # About Me
 
-Currently I am a [researcher](https://crypto.iti.kit.edu/english/staff_marcel_tiepelt.php) at the  of the [KASTEL Cryptography and Research Group](https://crypto.iti.kit.edu/english/index.php). 
+Currently, I am a postdoctoral-fellow at NTT Social Informatics Laboratory in Tokyo, Japan. If I ever get a website there, I will link it here too... ;)
+
+In 2025, I completed my Dissertation while being a [researcher and teacher](https://crypto.iti.kit.edu/english/staff_marcel_tiepelt.php) at the  of the [KASTEL Cryptography and Research Group](https://crypto.iti.kit.edu/english/index.php). 
 
 My research interest are crypt-analysis, post-quantum cryptography and quantum-annoying PAKEs. 
 
